@@ -4,8 +4,8 @@
 
 Bu proje, HippoRAG2 ve LinearRAG sistemlerindeki **Personalized PageRank (PPR)** retrieval algoritmasının iki alternatif yöntemle değiştirilmesini içermektedir.
 
-- **Soru 1 (80 pnt):** PPR yerine Katz Index (K=10)
-- **Soru 2 (20 pnt):** PPR yerine ParWalk
+- **Soru 1:** PPR yerine Katz Index (K=10)
+- **Soru 2:** PPR yerine ParWalk
 
 ---
 
